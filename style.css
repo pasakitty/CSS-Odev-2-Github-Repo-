@@ -1,0 +1,49 @@
+body{
+    background-color:white;
+
+}
+
+div{
+    text-align:center;
+}
+
+#ust-kisim{
+    background-color:darkgray;
+}
+img{
+    width:25%;
+    height:150px;
+}
+ ul li{
+    list-style:none;
+ }
+#arama{
+    width:25%;
+}
+
+p{
+    margin-bottom:auto;
+}
+
+#alt-kisim{
+    display:flex;
+    justify-content: space-evenly;
+}
+.liste{
+    background-color:aquamarine;
+    display:inline-block;
+    height:100px;
+    width:100%;
+    margin-top:2px;
+    margin-left: 2px;
+    padding:5px 5px;
+    
+}
+
+#mail{
+    width:60%;
+}
+footer{
+    text-align: center;
+    font-size:12px;
+}
